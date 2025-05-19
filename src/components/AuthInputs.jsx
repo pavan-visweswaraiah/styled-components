@@ -59,7 +59,7 @@ export default function AuthInputs() {
           />
         </p>
         <p>
-          <Label>Password</Label>
+          <Label>Passwords</Label>
           <Input
             type="password"
             className={passwordNotValid ? "invalid" : undefined}
